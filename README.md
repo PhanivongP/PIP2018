@@ -1,6 +1,6 @@
 # Repo for PIP2018 Machine Learning for Energy Systems
-## Phillippe Phanivong and Elpiniki Apostolaki – Iosifidou 
-## Contact: Phillippe_Phanivong@berkeley.edu
+### Phillippe Phanivong and Elpiniki Apostolaki – Iosifidou 
+Contact: Phillippe_Phanivong@berkeley.edu
 
 
 # Useful References
